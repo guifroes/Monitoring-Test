@@ -1,0 +1,77 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Controllers/f:AccountController.cs" caret="2198" fromTop="14" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Models/f:AccountModels.cs" caret="253" fromTop="0" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Views/d:Person/f:Details.cshtml" caret="310" fromTop="17" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Views/d:Person/f:Index.cshtml" caret="322" fromTop="15" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Views/d:Shared/f:_Layout.cshtml" caret="443" fromTop="9" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Web.config" caret="0" fromTop="0" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Models/f:PersonModels.cs" caret="257" fromTop="12" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Controllers/f:PersonController.cs" caret="437" fromTop="15" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Models/f:PerftestContext.cs" caret="293" fromTop="11" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Global.asax.cs" caret="1271" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Views/d:Shared/f:_Layout.cshtml" caret="434" fromTop="8" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Global.asax.cs" caret="1809" fromTop="25" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Global.asax.cs" caret="1467" fromTop="20" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Global.asax.cs" caret="1704" fromTop="25" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Global.asax.cs" caret="2026" fromTop="31" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Global.asax.cs" caret="1354" fromTop="19" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Global.asax.cs" caret="4040" fromTop="31" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Global.asax.cs" caret="5291" fromTop="31" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Controllers/f:AccountController.cs" caret="2207" fromTop="14" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Models/f:PersonModels.cs" caret="370" fromTop="11" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Views/d:Shared/f:_Layout.cshtml" caret="813" fromTop="21" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Views/d:Person/f:Details.cshtml" caret="364" fromTop="17" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Views/d:Person/f:Index.cshtml" caret="618" fromTop="21" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Controllers/f:PersonController.cs" caret="576" fromTop="21" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Controllers/f:PersonController.cs" caret="1344" fromTop="15" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Controllers/f:PersonController.cs" caret="1983" fromTop="21" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Controllers/f:PersonController.cs" caret="2258" fromTop="19" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Global.asax.cs" caret="1844" fromTop="5" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Global.asax.cs" caret="382" fromTop="0" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Global.asax.cs" caret="620" fromTop="7" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Web.config" caret="0" fromTop="0" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Models/f:PersonModels.cs" caret="360" fromTop="15" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/d:Models/f:PerftestContext.cs" caret="693" fromTop="18" />
+      <File id="E565EF97-B8C2-45E9-8B7D-539FFA8AD25F/f:Global.asax.cs" caret="1055" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="protected" priority="1" />
+      <Item value="void" priority="2" />
+      <Item value="public" priority="2" />
+      <Item value="string" priority="3" />
+      <Item value="prop" priority="2" />
+      <Item value="int" priority="0" />
+      <Item value="MiniProfilerEF`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MvcMiniProfiler.MiniProfilerEF">
+      <Item value="Initialize`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

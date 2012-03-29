@@ -1,0 +1,12 @@
+c:\users\guilherme\documents\visual studio 2010\Projects\Perftest\Perftest\bin\Perftest.dll
+c:\users\guilherme\documents\visual studio 2010\Projects\Perftest\Perftest\bin\Perftest.pdb
+c:\users\guilherme\documents\visual studio 2010\Projects\Perftest\Perftest\bin\EntityFramework.dll
+c:\users\guilherme\documents\visual studio 2010\Projects\Perftest\Perftest\bin\EntityFramework.xml
+c:\users\guilherme\documents\visual studio 2010\Projects\Perftest\Perftest\obj\Debug\ResolveAssemblyReference.cache
+c:\users\guilherme\documents\visual studio 2010\Projects\Perftest\Perftest\obj\Debug\Perftest.dll
+c:\users\guilherme\documents\visual studio 2010\Projects\Perftest\Perftest\obj\Debug\Perftest.pdb
+c:\users\guilherme\documents\visual studio 2010\Projects\Perftest\Perftest\bin\MvcMiniProfiler.dll
+c:\users\guilherme\documents\visual studio 2010\Projects\Perftest\Perftest\bin\MvcMiniProfiler.pdb
+c:\users\guilherme\documents\visual studio 2010\Projects\Perftest\Perftest\bin\MvcMiniProfiler.xml
+c:\users\guilherme\documents\visual studio 2010\Projects\Perftest\Perftest\bin\MvcMiniProfiler.EntityFramework.dll
+c:\users\guilherme\documents\visual studio 2010\Projects\Perftest\Perftest\bin\MvcMiniProfiler.EntityFramework.pdb
